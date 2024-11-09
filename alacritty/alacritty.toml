@@ -1,0 +1,16 @@
+general.import = ["~/.config/alacritty/dracula.toml"]
+[env]
+TERM = "xterm-256color"
+[window]
+
+decorations = "None"
+
+opacity = 0.95
+blur = true
+startup_mode =  "Maximized" 
+
+
+[font]
+normal.family = "Hack Nerd Font Mono"
+
+size = 13
