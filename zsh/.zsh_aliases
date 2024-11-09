@@ -1,0 +1,5 @@
+alias ls="eza --icons=always"
+alias la="eza --all --all --icons=always"
+alias sysupdate='sudo apt-get update; sudo apt-get upgrade -y; sudo apt-get autoremove -y; sudo apt-get autoclean -y'
+alias activate='source .venv/bin/activate'
+alias c='clear'
